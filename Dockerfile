@@ -1,4 +1,4 @@
-microsoft/azure-cli:2.9.1
+FROM microsoft/azure-cli:2.9.1
 
 LABEL "com.github.actions.name"="azure-blob-storage-upload"
 LABEL "com.github.actions.description"="Uploads assets to Azure Blob Storage"
